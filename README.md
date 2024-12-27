@@ -1,3 +1,3 @@
 # my-demo
 This is my first Git Repository
-Author - Tanmoy Pal
++Author - Tanmoy Pal
